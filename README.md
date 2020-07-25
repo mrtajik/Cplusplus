@@ -1,2 +1,2 @@
 # C++
-# quick intro to refresh. 
+# quick intro.
