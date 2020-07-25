@@ -9,6 +9,7 @@ int main(int argc, const char * argv[])
 {
     
     int i=20;
+    
     do
     {
         cout<<" "<<i;
