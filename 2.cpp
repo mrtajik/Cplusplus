@@ -12,8 +12,10 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-	int num=10;
+	int num;
 	
+	cout <<"Enter any integer number: ";
+	cin >>num;
 	cout << "Num is "<< num;
 
 	return 0;
